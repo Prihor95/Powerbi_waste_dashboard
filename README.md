@@ -26,7 +26,7 @@ Mediante la implementación de este dashboad se presentaba el reporte diario de 
 <img src="assets/OEE_por_mes.png" alt="OEE por mes" style="width:100%">
 **2. Bloque de perdidas:**   
 La empresa para la que trabajaba en su mayoria se trabajaba 24/7, por lo que sabiamos que teniamos tiempos muertos, pero no sabiamos en que cantidad y cuales eran los más criticos, este grafico nos permitia visualizar la cantidad de minutos disponibles contra los producidos y localizar en que punto se encontraban las perdidas de tiempo. Así se podian tomar desciones en donde invertir recursos y monitorear el impacto.
-<img src="assets/Bloques_de_perdidas.png" alt="Bloque de perdidas" style="width:100%">
+<img src="assets/Bloque_de_perdidas.png" alt="Bloque de perdidas" style="width:100%">
 
 **3. Merma de proceso de impresión:**  
 Mediante este dashboard enfocado al indicador de calidad del proceso de impresión, se lograron clasificar las cantidades y las principales desviaciones de calidad por producto, esto nos permitio visualizar los principales defectos de calidad y posteriormente establecer un plan de mejora con la planta que proveeia estos productos y tras el primer trimestre tuvimos una reducción de la merma en un 25%.  
